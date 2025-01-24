@@ -23,10 +23,10 @@ This script automates advanced network scanning and enumeration tasks using tool
   - Menu-driven inputs for seamless operation.
   - Enumeration suggestions based on discovered services.
  
-## RUN 
-it willbe automatic install prerequisites.
-For use this tool :
-sudo su
-git cone https://github.com/Parnab-B/network_Scaning.git
-chmod +x adv_scaning.sh
-./adv_scaning.sh
+## Steps to Use This Tool:
+- **it willbe automatic install prerequisites.**
+- For use this tool :
+- sudo su
+- git cone https://github.com/Parnab-B/network_Scaning.git
+-**Run this on file location :** chmod +x adv_scaning.sh
+- ./adv_scaning.sh
